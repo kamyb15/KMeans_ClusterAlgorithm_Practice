@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "KMeans_ClusterAlgorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KMeans_ClusterAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KMeans_ClusterAlgorithm-Debug-de270874fee8deffa565.json",
+					"name" : "KMeans_ClusterAlgorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kamybubick/Library/CloudStorage/OneDrive-FloridaGulfCoastUniversity/Programs/KMeans_ClusterAlgorithm/cmake-build-debug",
+		"source" : "/Users/kamybubick/Library/CloudStorage/OneDrive-FloridaGulfCoastUniversity/Programs/KMeans_ClusterAlgorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
